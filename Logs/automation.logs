@@ -1,0 +1,35 @@
+2022-06-29 11:29:45,550 - root - INFO - **** test_tc001_homepagetitle started ****
+2022-06-29 11:29:46,285 - root - INFO - **** Verifying homepage title started ****
+2022-06-29 11:29:46,285 - root - INFO - **** Homepage title matched****
+2022-06-29 11:29:46,350 - root - INFO - **** Verifying homepage title completed ****
+2022-06-29 11:29:46,350 - root - INFO - **** test_tc001_homepagetitle completed ****
+2022-06-29 11:29:47,044 - root - INFO - **** test_tc002_login started ****
+2022-06-29 11:29:48,615 - root - INFO - **** test_tc002_login completed ****
+2022-06-29 11:33:55,925 - root - INFO - **** test_tc001_homepagetitle started ****
+2022-06-29 11:33:56,637 - root - INFO - **** Verifying homepage title started ****
+2022-06-29 11:33:56,638 - root - INFO - **** Homepage title matched****
+2022-06-29 11:33:56,699 - root - INFO - **** Verifying homepage title completed ****
+2022-06-29 11:33:56,699 - root - INFO - **** test_tc001_homepagetitle completed ****
+2022-06-29 11:33:57,443 - root - INFO - **** test_tc002_login started ****
+2022-06-29 11:33:58,809 - root - INFO - **** test_tc002_login completed ****
+2022-06-29 11:34:08,754 - root - INFO - **** test_tc001_homepagetitle started ****
+2022-06-29 11:34:10,818 - root - INFO - **** Verifying homepage title started ****
+2022-06-29 11:34:10,818 - root - INFO - **** Homepage title matched****
+2022-06-29 11:34:11,184 - root - INFO - **** Verifying homepage title completed ****
+2022-06-29 11:34:11,184 - root - INFO - **** test_tc001_homepagetitle completed ****
+2022-06-29 11:34:12,144 - root - INFO - **** test_tc002_login started ****
+2022-06-29 11:34:15,146 - root - INFO - **** test_tc002_login completed ****
+2022-06-29 11:34:23,695 - root - INFO - **** test_tc001_homepagetitle started ****
+2022-06-29 11:34:26,573 - root - INFO - **** Verifying homepage title started ****
+2022-06-29 11:34:26,574 - root - INFO - **** Homepage title matched****
+2022-06-29 11:34:26,639 - root - INFO - **** Verifying homepage title completed ****
+2022-06-29 11:34:26,639 - root - INFO - **** test_tc001_homepagetitle completed ****
+2022-06-29 11:34:27,405 - root - INFO - **** test_tc002_login started ****
+2022-06-29 11:34:28,633 - root - INFO - **** test_tc002_login completed ****
+2022-06-29 11:46:30,462 - root - INFO - **** test_tc001_homepagetitle started ****
+2022-06-29 11:46:32,543 - root - INFO - **** Verifying homepage title started ****
+2022-06-29 11:46:32,543 - root - INFO - **** Homepage title matched****
+2022-06-29 11:46:32,916 - root - INFO - **** Verifying homepage title completed ****
+2022-06-29 11:46:32,916 - root - INFO - **** test_tc001_homepagetitle completed ****
+2022-06-29 11:46:33,776 - root - INFO - **** test_tc002_login started ****
+2022-06-29 11:46:36,056 - root - INFO - **** test_tc002_login completed ****
